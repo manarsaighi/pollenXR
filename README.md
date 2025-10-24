@@ -16,13 +16,13 @@ Key Features and Interactions: Pointing gesture, one garden scene, particle effe
 XR Technologies: Hand tracking, 3D UI, Spatial Audio. 
 
 ### 1. Main User Interface
-![Main UI](images/pollenXR1.jpg)
-
+<img src="images/pollenXR1.jpg" alt="Main UI" width="400px">
 
 ### 2. Spatial Layout
-![Key Interaction](images/pollenXR2.jpg)
+<img src="images/pollenXR2.jpg" alt="Spatial Layout" width="400px">
 
 ### 3. Key Interaction
-![Spatial Layout](images/pollenXR3.jpg)
+<img src="images/pollenXR3.jpg" alt="Key Interaction" width="400px" style="transform: rotate(-90deg);">
+
 
 
