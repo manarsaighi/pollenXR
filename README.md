@@ -18,11 +18,17 @@ XR Technologies: Hand tracking, 3D UI, Spatial Audio.
 ### 1. Main User Interface
 <img src="images/pollenXR1.jpg" alt="Main UI" width="400px">
 
+The user is placed within a garden scene surrounded by flowers and a handful of insects. There is a "pollinator counter" in the corner of the screen.
+
 ### 2. Spatial Layout
 <img src="images/pollenXR2.jpg" alt="Spatial Layout" width="400px">
 
+The scene from above. The user will be placed in the centre of the scene.
+
 ### 3. Key Interaction
 <img src="images/pollenXR3.jpg" alt="Key Interaction" width="400px">
+
+An example of the key interaction. A point gesture towards an insect will draw it to the user. Moving to point at a flower will lure the insect to the flower and pollinate it.
 
 
 
